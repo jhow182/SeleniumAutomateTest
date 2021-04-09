@@ -1,0 +1,13 @@
+{
+  "BaseConfigurations": {
+    "MasterLogin": "teste",
+    "MasterPass": "123123123",
+    "UrlLogin": "http://demo.automationtesting.in/SignIn.html",
+    "UrlCadastro": "http://demo.automationtesting.in/Register.html"
+  },
+
+  "SeleniumConfigurations": {
+    "Timeout": 10,
+    "Headless": false
+  }
+}
